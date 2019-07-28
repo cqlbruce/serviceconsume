@@ -1,0 +1,5 @@
+com\shanhe\comsume\service\UserService.class
+com\shanhe\comsume\ConsumeApplication.class
+com\shanhe\comsume\controller\UserController.class
+com\shanhe\comsume\entity\User.class
+com\shanhe\comsume\service\UserService$1.class
